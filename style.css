@@ -2,7 +2,7 @@
 /* header */
 .navbar{
     box-sizing: border-box;
-    padding: 20px 10px;
+    padding: 50px 10px;
     background-color: #0c300c;
     /* background-color: #339933; */
 }
@@ -10,7 +10,7 @@
     font-family: 'Oswald', sans-serif;
     font-size: 18px;
 }
-.nav-links a{
+.nav-item a{
     margin-left: 10px;
     margin-right: 30px;
     color: #aef3ae;
@@ -18,9 +18,9 @@
     font-size: 18px;
 }
 
-.nav-links a:hover{
-    text-decoration: none;
-    color: rgb(41, 252, 22);    
+.nav-item a:hover{
+ text-decoration: none;
+ color: rgb(41, 252, 22); 
 }
 /* header end */
 
